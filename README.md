@@ -1,2 +1,2 @@
-# supcalc
-SUP board volume calculator
+# SUPcalc
+A simple SUP board volume calculator
